@@ -23,7 +23,7 @@ var Config = {
 // }, 1000)
 // upload
 // $('body').addClass('bling-start bling-showimg bling-upload')
-$('body').addClass('bling-nolook')
+//$('body').addClass('bling-nolook')
 
 
 
